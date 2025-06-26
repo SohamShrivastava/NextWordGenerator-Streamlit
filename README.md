@@ -1,6 +1,6 @@
 # Next Word Prediction App
 
-This repository contains a Streamlit-based application for next-word prediction, developed under the guidance of Professor Nipun Batra at IIT Gandhinagar. The app is trained on *The Adventures of Sherlock Holmes* by Arthur Conan Doyle and provides meaningful predictions for user-input text.
+This repository contains a Streamlit-based application for next-word prediction, developed under the guidance of Professor Nipun Batra at IIT Gandhinagar. The app is trained on *The Adventures of Sherlock Holmes* by Arthur Conan Doyle and provides meaningful predictions for user-input text. This was done with the collaboration of [Vansh](https://github.com/VanshOnGit). 
 
 ## Features
 - **Trained Dataset**: Utilizes text from *The Adventures of Sherlock Holmes* to generate predictions.
@@ -14,7 +14,7 @@ This repository contains a Streamlit-based application for next-word prediction,
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/VanshOnGit/NextWordGenerator-Streamlit/>
+   git clone <https://github.com/SohamShrivastava/NextWordGenerator-Streamlit/>
    ```
 2. Navigate to the project directory:
    ```bash
